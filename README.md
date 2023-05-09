@@ -6,7 +6,8 @@ Git and Github \
 Postman\
 Node JS\
 Jest\
-Javascript\
+Javascrip\
+async/await\
 apiDocs and Swagger\
 Testing automation
 ## Testing summary 
