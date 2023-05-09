@@ -16,7 +16,7 @@ test('Should return 200 status code', async () => {
 });
 
 /*body test */
-test('Response should be true', async () => {
+test('Response should return true', async () => {
     let actualResponseBody;
 	try {
 		const response = await fetch(`${config.API_URL}/api/v1/kits/7`, {
