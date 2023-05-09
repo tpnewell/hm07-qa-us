@@ -19,7 +19,7 @@ apiDocs and Swagger
 - In command line, open directory
 - Install npm if not already initialized with `npm init`
 - Install jest if not already initialized with `npm jest`
-- Run tests with `npx jest directory/filename.test` 
+- Run tests with `npx jest directory/filename.test`, replacing `directory/filename.test` with your directory path
 
 
 
