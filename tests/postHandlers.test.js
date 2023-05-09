@@ -29,7 +29,7 @@ test('Should return 201 status code', async () => {
 });
 
 /* body test */
-test('Body should contain Order and Go', async () => {
+test('Response should contain Order and Go', async () => {
 	let actualResponseBody;
 	try {
 		const response = await fetch(`${config.API_URL}/api/v1/orders`, {
