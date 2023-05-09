@@ -5,7 +5,7 @@ const requestBody = {
 	"price": 5	
 }
 
-test('Should return response satus code 200', async () => {
+test('Should return 200 status code', async () => {
     let actualStatusCode;
 	try {
 		const response = await fetch(`${config.API_URL}/api/v1/products/6`, {
