@@ -1,13 +1,14 @@
 # Sprint 7 project
 ## Project Summary
 This project includes testing api endpoints for the Urban Grocers app, and their status codes and response bodies.
-## Technologies Utilized
+## Technologies & Techniques Utilized
 Git and Github \
 Postman\
 Node JS\
 Jest\
 Javascript\
-apiDocs and Swagger
+apiDocs and Swagger\
+Testing automation
 ## Testing summary 
 2 tests were performed for each request (GET, POST, DELETE and PUT)
 - For GET, I tested that a kit would be returned with the response code 200, and that the body would contain the name of the kit.
